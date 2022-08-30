@@ -1,0 +1,37 @@
+.deleteIcon {
+  height: 20px;
+  height: 4%;
+  margin-right: 100px;
+}
+.btn_container {
+  background-color: transparent;
+  border: none;
+}
+.TimeText {
+  color: #64748b;
+  font-weight: bold;
+  font-size: 16px;
+}
+.socialMediaIcon {
+  height: 20px;
+  margin-left: 16px;
+}
+.tittle {
+  color: #64748b;
+  font-weight: bold;
+  margin-left: 15px;
+  font-size: 14px;
+}
+.domainUrl {
+  color: #64748b;
+  font-size: 13px;
+  margin-left: 10px;
+}
+
+.noHistory {
+  margin-left: 40%;
+  margin-top: 20%;
+  font-size: 25px;
+  color: red;
+  font-weight: bold;
+}
